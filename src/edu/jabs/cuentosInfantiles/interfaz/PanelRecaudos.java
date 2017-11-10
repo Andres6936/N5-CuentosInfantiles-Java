@@ -1,5 +1,12 @@
 package edu.jabs.cuentosInfantiles.interfaz;
 
-public class PanelRecaudos
-{
+import javax.swing.JPanel;
+
+public class PanelRecaudos extends JPanel{
+
+    public PanelRecaudos(InterfazCuentosInfantiles interfazCuentosInfantiles)
+    {
+
+    }
+
 }
