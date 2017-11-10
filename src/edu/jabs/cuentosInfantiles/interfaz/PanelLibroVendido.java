@@ -1,5 +1,13 @@
 package edu.jabs.cuentosInfantiles.interfaz;
 
-public class PanelLibroVendido
-{
+
+import javax.swing.JPanel;
+
+public class PanelLibroVendido extends JPanel{
+
+    public PanelLibroVendido(InterfazCuentosInfantiles interfazCuentosInfantiles)
+    {
+
+    }
+
 }
